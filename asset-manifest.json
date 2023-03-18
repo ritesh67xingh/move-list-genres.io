@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/move-list-genres.io/static/css/main.8750e829.css",
+    "main.js": "/move-list-genres.io/static/js/main.7cc4ba61.js",
+    "index.html": "/move-list-genres.io/index.html",
+    "main.8750e829.css.map": "/move-list-genres.io/static/css/main.8750e829.css.map",
+    "main.7cc4ba61.js.map": "/move-list-genres.io/static/js/main.7cc4ba61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8750e829.css",
+    "static/js/main.7cc4ba61.js"
+  ]
+}
